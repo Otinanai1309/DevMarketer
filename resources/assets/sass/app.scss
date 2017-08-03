@@ -1,0 +1,16 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+/** font-awesome**/
+@import "node_modules/font-awesome/scss/font-awesome";
+
+// bulma
+/** You can navigate to node_modules/bulma/bulma in order to find them **/
+@import "node_modules/bulma/bulma";
+
+/** Bulma Vue Modules **/
+@import "node_modules/buefy/src/scss/buefy";
