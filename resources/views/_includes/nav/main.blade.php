@@ -2,7 +2,7 @@
   <div class="container">
     <div class="nav-left">
       <a class="nav-item is-paddingless" href="{{route('home')}}">
-        <img src="{{asset('images/my_logo.png')}}" alt="Sia's blog logo">
+        <img src="{{asset('images/my_logo.png')}}" alt="Sia's Blog logo">
       </a>
       <a class="nav-item is-tab is-hidden-mobile m-l-10">Learn</a>
       <a class="nav-item is-tab is-hidden-mobile">Discuss</a>
